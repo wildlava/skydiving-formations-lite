@@ -1,0 +1,173 @@
+02-001 Star
+02-002 Compressed Accordion
+02-003 Caterpillar
+02-004 Side Body
+02-005 Open Accordion
+03-001 Star
+03-002 Compressed Accordion
+03-003 Caterpillar
+03-004 Murphy
+03-005 Bundy
+04-001 Star
+04-002 Bipole
+04-003 Opal
+04-004 Facing Diamond
+04-005 Stairstep Diamond
+05-001 Star
+05-004 Open Accordion
+05-005 Phalanx
+05-006 Caterpiller
+05-007 Compressed Accordion
+06-001 Star
+06-002 In-Out
+06-004 Side-Compressed Diamond
+06-006 Zipper
+06-007 Donut
+07-001 Star
+07-003 Donut
+07-004 Compressed Accordion
+07-005 Caterpillar
+07-008 Open Accordion
+08-001 Star
+08-002 In-Out
+08-003 Donut
+08-004 Compressed Accordion
+08-005 Caterpillar
+09-001 Star
+09-002 Donut
+09-003 Cluster
+09-004 Tri-Opals
+09-005 09-005
+09-006 Tri-Donuts
+09-007 09-007
+09-008 Open Accordion
+09-009 09-009
+09-010 Star Flake Flake
+09-011 Bipole Flake Flake
+09-012 Caterpillar
+09-013 09-013
+09-014 Facing Diamond
+09-015 Opposed Diamond
+09-016 09-016
+09-017 09-017
+09-018 09-018
+09-019 Norwegian Donut
+09-020 Donut Compress Compress
+09-021 Accordion-Flake Donut
+09-022 Compress Accordion
+09-023 09-023
+09-024 Tri Wedges
+09-025 09-025
+09-026 09-026
+09-027 Compressed Donuts
+09-028 09-028
+09-029 00-029
+09-030 09-030
+09-031 Cat Accordion
+09-032 09-032
+09-033 Door Mat
+09-034 Helix
+09-035 09-035
+09-036 09-036
+09-037 Flat Tire
+09-038 09-038
+09-039 Super Sidebody
+09-040 Pod Flake
+09-041 Triple Wedges
+09-042 Triple Stairsteps
+09-043 Old Bone
+09-044 New Bone
+09-045 Propeller
+09-046 09-046
+09-047 09-047
+09-048 09-048
+09-049 09-049
+09-050 09-050
+09-051 09-051
+09-052 Heron
+09-053 09-053
+09-054 09-054
+09-055 Compressed Accordion Star
+09-056 09-056
+09-057 Open Diamond With Stinger
+09-058 09-058
+09-059 Phalanx
+09-060 09-060
+09-061 09-061
+09-062 09-062
+09-063 09-063
+09-064 Double Bubble
+09-065 Amputee
+09-066 09-066
+09-067 Another Jewel
+09-068 Spider Jewel
+09-069 Opal Jewel
+09-070 Jewel
+09-071 Sidebody Star
+09-072 Sidebody Donut
+09-073 09-073
+09-074 09-074
+09-075 Pod Accordion
+09-076 09-076
+09-077 09-077
+09-078 09-078
+09-079 Broken-Hammer Donut
+09-080 Hammer Donut
+09-081 09-081
+09-082 09-082
+09-083 09-083
+10-001 Star
+10-003 Sunflake
+10-004 Donut
+10-006 Snowflake
+10-008 Open Accordion
+11-001 Star
+11-002 Compressed Accordion
+11-004 Double Bubble
+11-010 Hourglass
+11-016 Triple Spiders
+12-001 Star
+12-003 Slot Flake
+12-006 Snowflake
+12-008 Stairstep Donut
+12-010 Caterpillar
+13-001 Star
+13-002 Donut
+13-003 Jewel Flake
+13-004 Arrowhead
+13-007 Bone
+14-001 Star
+14-002 Donut
+14-003 Snowflake
+14-004 Nested Diamonds
+14-005 Slot Flake
+15-001 Star
+15-002 Donut
+15-003 Facing Wedge
+15-004 Belted Diamond
+15-005 Swedge
+16-001 Star
+16-002 Slot Flake
+16-003 Snowflake
+16-004 Aich
+16-005 Zipper Flake
+17-001 Star
+17-002 Horizontal Diamond Plate
+17-003 Opposed Diamond Plate
+17-004 Facing Diamond Plate
+17-005 Pod-Tipped Diamond
+18-001 Star
+18-004 Pod Flake
+18-006 Cluster
+18-007 Helix Flake
+18-011 Weed Whacker
+19-001 Star
+19-002 Wings
+19-003 Double Bubble
+19-005 Hourglass
+19-015 Fly Eyes
+20-001 Star
+20-004 Slot Flake
+20-005 Wagon Wheel
+20-006 Pod Flake
+20-007 Four-Arm Weed Whacker
