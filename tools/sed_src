@@ -5,6 +5,7 @@ sed -e 's/com.wildlava.skydivingformations\./com.wildlava.skydivingformationslit
 sed -e 's/com.wildlava.skydivingformations\./com.wildlava.skydivingformationslite./g' -e 's/com.wildlava.skydivingformations;/com.wildlava.skydivingformationslite;/g' ../full_version/src/com/wildlava/skydivingformations/DiveViewer.java > ../src/com/wildlava/skydivingformationslite/DiveViewer.java
 
 sed -e 's/Skydiving Formations/Skydiving Formations Lite/g' ../full_version/res/values/strings.xml > ../res/values/strings.xml
+sed -e 's/Skydiving Formations/Skydiving Formations Lite/g' ../full_version/res/values-large/strings.xml > ../res/values-large/strings.xml
 
 sed -e 's/SkydivingFormations/SkydivingFormationsLite/g' ../full_version/build.xml > ../build.xml
 

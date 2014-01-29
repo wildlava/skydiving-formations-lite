@@ -4,4 +4,6 @@
 /build.xml
 /gen
 /res/values/strings.xml
-/src
+/res/values-large/strings.xml
+/src/com/wildlava/skydivingformationslite/DiveViewer.java
+/src/com/wildlava/skydivingformationslite/FormationBrowser.java
