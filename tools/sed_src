@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 mkdir -p ../src/com/wildlava/skydivingformationslite
-mkdir -p ../assets
 
 sed -e 's/com.wildlava.skydivingformations\./com.wildlava.skydivingformationslite./g' -e 's/com.wildlava.skydivingformations;/com.wildlava.skydivingformationslite;/g' ../full_version/src/com/wildlava/skydivingformations/FormationBrowser.java > ../src/com/wildlava/skydivingformationslite/FormationBrowser.java
 
