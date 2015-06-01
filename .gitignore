@@ -1,9 +1,11 @@
 /AndroidManifest.xml
+/build.xml
+/local.properties
+/proguard-project.txt
+/project.properties
 /assets/formations
 /bin
-/build.xml
 /gen
 /res/values/strings.xml
-/res/values-large/strings.xml
 /src/com/wildlava/skydivingformationslite/DiveViewer.java
 /src/com/wildlava/skydivingformationslite/FormationBrowser.java
