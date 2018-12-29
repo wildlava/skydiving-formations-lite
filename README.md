@@ -4,3 +4,6 @@
 
     cd tools; ./sed_src; python link_pngs.py; cd ..
     android update project --name SkydivingFormationsLite --target 4 -p .
+
+  if needed:
+    cat ~/android/keys/wildlava_key_settings >> local.properties
